@@ -1,0 +1,4 @@
+C:/Users/Milena/Documents/repaso/repaso/cmake-build-debug/CMakeFiles/repaso.dir
+C:/Users/Milena/Documents/repaso/repaso/cmake-build-debug/CMakeFiles/main2.dir
+C:/Users/Milena/Documents/repaso/repaso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Milena/Documents/repaso/repaso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
